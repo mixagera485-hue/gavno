@@ -1,0 +1,2 @@
+# Freez Client server uses only Python standard library.
+# No extra packages required.
